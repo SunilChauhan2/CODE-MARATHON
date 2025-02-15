@@ -14,8 +14,7 @@ int main()
     int n,m,l;
     cin>> n >> m >>l;
     cout<<" "<< n <<" "<< m <<" "<< l; 
-    
-   return 0;
+    return 0;
 }
 
 //Question 2:Input two numbers x and y from keyboard you need to print the sum of two numbers with 2 decimal digit.
