@@ -1,13 +1,13 @@
-// #include<iostream>
-// using namespace std;
-// int main()
-// {
-//     int n,m,l;
-//     cin>> n >> m >>l;
-//     cout<<" "<< n <<" "<< m <<" "<< l; 
+#include<iostream>
+using namespace std;
+int main()
+{
+     int n,m,l;
+     cin>> n >> m >>l;
+     cout<<" "<< n <<" "<< m <<" "<< l; 
     
-//    return 0;
-// }
+    return 0;
+}
 
 
 #include<iostream>
