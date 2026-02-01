@@ -35,7 +35,7 @@ Each file corresponds to a day’s solution:
 | `DAY29.CPP` | Problem for Day 29 |
 | `DAY30.cpp` | Problem for Day 30 |
 
-*(You can later add short descriptions next to each file.)*
+
 
 ---
 
